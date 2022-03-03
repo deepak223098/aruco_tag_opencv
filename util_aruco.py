@@ -6,6 +6,7 @@ import numpy as np
 
 
 class ArucoTag:
+    # set class variable
     path_to_save = r'output/DICT_4X4_50_1.png'
     path_to_read = r"input/image1.pnd"
     ARUCO_DICT = {
