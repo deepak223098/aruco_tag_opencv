@@ -8,6 +8,7 @@
 ### To Aruco package by default comes under opencv package
 In windows use this command to install : pip install opencv-python,
 pip install opencv-contrib-python
+version which I have in my system is: opencv- '4.5.5', python-Python 3.6.8 64 bit
 #### How to Run the Code
 #### simplily run the file in command prompt or terminal : python generate_aruco_tag.py ,
 #### to see the output go to the output folder and check the result
